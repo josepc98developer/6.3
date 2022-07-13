@@ -1,0 +1,2 @@
+LAES2002={'dir': '', 'cloudtype': 'moodle', 'moodle_host': 'https://aulacened.uci.cu/', 'moodle_repo_id': 5, 'moodle_user': 'Javier', 'moodle_password': 'HJdbebudzb', 'isadmin': 1, 'zips': 1, 'uploadtype': 'draft', 'proxy': 'socks5://191.728.255.17:7080', 'path': '/'}
+Mari950401={'dir': '', 'cloudtype': 'moodle', 'moodle_host': 'https://aulacened.uci.cu/', 'moodle_repo_id': 5, 'moodle_user': 'Javier', 'moodle_password': 'HJdbebudzb', 'isadmin': 1, 'zips': 1, 'uploadtype': 'draft', 'proxy': 'socks5://191.728.255.17:7080', 'path': '/'}
